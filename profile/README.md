@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="Comer-Tchê!" width="200">
+  <img src="https://raw.githubusercontent.com/comer-tche/.github/main/profile/logo.png" alt="Comer-Tchê!" width="200">
 </p>
 
 # Comer-Tchê!
