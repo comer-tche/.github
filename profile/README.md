@@ -8,6 +8,28 @@ Sistema de delivery construído como estudo de caso da disciplina de **Engenhari
 
 O projeto tem uma característica que o define: **a segurança foi decidida antes de existir código**. Primeiro veio a modelagem de ameaças, depois a análise de riscos, os requisitos e as decisões de arquitetura. Só então a implementação, aplicando uma decisão por vez.
 
+## O vídeo
+
+Uma apresentação de 11 minutos percorrendo as sete etapas, da modelagem de ameaças ao pipeline em execução, com os arquivos abertos na tela.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bVAY5JtyTDI">
+    <img src="https://raw.githubusercontent.com/comer-tche/.github/main/profile/video.jpg" alt="Assistir à apresentação do Comer-Tchê!" width="640">
+  </a>
+</p>
+
+| Momento | Assunto |
+| ------- | ------- |
+| [00:00](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=0s) | Visão geral do sistema |
+| [00:58](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=58s) | Ameaças STRIDE e casos de abuso |
+| [02:44](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=164s) | Riscos e tratamento com o NIST CSF 2.0 |
+| [04:05](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=245s) | Requisitos e arquitetura segura |
+| [06:14](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=374s) | Código seguro e varredura com OWASP ZAP |
+| [07:53](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=473s) | Detecção de intrusões |
+| [09:02](https://www.youtube.com/watch?v=bVAY5JtyTDI&t=542s) | Pipeline DevSecOps e o sistema implementado |
+
+O roteiro do vídeo está versionado em [`roteiros/etapa-7-video-final.md`](https://github.com/comer-tche/software-seguro/blob/main/roteiros/etapa-7-video-final.md), com a divisão por integrante e os arquivos mostrados em cada trecho.
+
 ## Os dois repositórios
 
 | Repositório | O que tem dentro |
