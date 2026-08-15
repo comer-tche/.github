@@ -43,6 +43,25 @@ Cadastro e autenticação com quatro perfis, cardápio, fechamento de pedido, co
 | Cristhian Kapelinski | [@CristhianKapelinski](https://github.com/CristhianKapelinski) |
 | Beatriz Machado | [@INARI18](https://github.com/INARI18) |
 
+## Participação
+
+**Os cinco integrantes contribuíram igualmente para o trabalho.** A colaboração aconteceu em várias frentes, e nem todas deixam commit:
+
+- escrita das seções e do texto das etapas;
+- revisão e correção do que os colegas escreveram, incluindo apontar erro de conteúdo e pedir reescrita;
+- levantamento das ameaças e construção dos casos de abuso;
+- discussão e decisão conjunta da pontuação, da priorização e da ordem de tratamento dos riscos;
+- pesquisa nos catálogos de referência, CWE e OWASP, para embasar as decisões;
+- criação, revisão e ajuste dos diagramas;
+- execução da ferramenta de verificação e leitura conjunta do relatório;
+- implementação dos controles e revisão do código;
+- organização do repositório e da estrutura de arquivos;
+- conferência do trabalho contra o enunciado e contra as aulas;
+- reuniões de alinhamento e discussões em grupo ao longo de toda a disciplina;
+- gravação, montagem e revisão do vídeo final.
+
+Boa parte das decisões foi tomada em conjunto, em reunião, com uma pessoa ao teclado enquanto o grupo discutia. Por isso o histórico de commits mostra quem registrou a alteração, e não sozinho quem participou de produzi-la.
+
 ## Aviso
 
 Este é um artefato acadêmico. O primeiro commit da implementação é **deliberadamente inseguro**, para servir de ponto de partida à aplicação dos controles, e os trechos vulneráveis estão marcados no código. Nada aqui deve ser publicado na internet nem usado com dados reais de pessoas.
